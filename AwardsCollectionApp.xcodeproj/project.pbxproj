@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		491B991A28E1EB1C00843D06 /* PlanetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491B991928E1EB1C00843D06 /* PlanetView.swift */; };
 		499112DF28FAC27F00A14498 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 499112DE28FAC27F00A14498 /* README.md */; };
-		499112E128FAC2AC00A14498 /* Simulator Screen Recording - iPhone 13 Pro - 2022-10-15 at 13.20.21.gif in Resources */ = {isa = PBXBuildFile; fileRef = 499112E028FAC2AC00A14498 /* Simulator Screen Recording - iPhone 13 Pro - 2022-10-15 at 13.20.21.gif */; };
+		499112E128FAC2AC00A14498 /* preview.gif in Resources */ = {isa = PBXBuildFile; fileRef = 499112E028FAC2AC00A14498 /* preview.gif */; };
 		A89D0931267B76D400C1FB66 /* AwardsCollectionAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A89D0930267B76D400C1FB66 /* AwardsCollectionAppApp.swift */; };
 		A89D0933267B76D400C1FB66 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A89D0932267B76D400C1FB66 /* MainView.swift */; };
 		A89D0935267B76D600C1FB66 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A89D0934267B76D600C1FB66 /* Assets.xcassets */; };
@@ -25,7 +25,7 @@
 /* Begin PBXFileReference section */
 		491B991928E1EB1C00843D06 /* PlanetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetView.swift; sourceTree = "<group>"; };
 		499112DE28FAC27F00A14498 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		499112E028FAC2AC00A14498 /* Simulator Screen Recording - iPhone 13 Pro - 2022-10-15 at 13.20.21.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Simulator Screen Recording - iPhone 13 Pro - 2022-10-15 at 13.20.21.gif"; sourceTree = "<group>"; };
+		499112E028FAC2AC00A14498 /* preview.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = preview.gif; sourceTree = "<group>"; };
 		A89D092D267B76D400C1FB66 /* AwardsCollectionApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AwardsCollectionApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A89D0930267B76D400C1FB66 /* AwardsCollectionAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AwardsCollectionAppApp.swift; sourceTree = "<group>"; };
 		A89D0932267B76D400C1FB66 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -55,7 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				A89D0934267B76D600C1FB66 /* Assets.xcassets */,
-				499112E028FAC2AC00A14498 /* Simulator Screen Recording - iPhone 13 Pro - 2022-10-15 at 13.20.21.gif */,
+				499112E028FAC2AC00A14498 /* preview.gif */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -164,7 +164,7 @@
 				499112DF28FAC27F00A14498 /* README.md in Resources */,
 				A89D0938267B76D600C1FB66 /* Preview Assets.xcassets in Resources */,
 				A89D0935267B76D600C1FB66 /* Assets.xcassets in Resources */,
-				499112E128FAC2AC00A14498 /* Simulator Screen Recording - iPhone 13 Pro - 2022-10-15 at 13.20.21.gif in Resources */,
+				499112E128FAC2AC00A14498 /* preview.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
